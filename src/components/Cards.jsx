@@ -1,5 +1,5 @@
 import React from "react";
-function Cards() {
+function Cards(props) {
   return (
     <div
       style={{
